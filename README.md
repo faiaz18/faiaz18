@@ -5,18 +5,18 @@
 
 🔭 I’m currently working on **Cyber Security projects**
 
-Projects:
-- Indrusion Detection System
-- SIEM Homelab
-- IAM Homelab
-- Money Transaction Security Blockchain Project
-- Applied Cryptography project
+  Projects:
+  - Indrusion Detection System
+  - SIEM Homelab
+  - IAM Homelab
+  - Money Transaction Security Blockchain Project
+  - Applied Cryptography project
 
-- 🌱 I’m currently learning **Offensive Security**
+🌱 I’m currently learning **Offensive Security**
 
-- 👨‍💻 All of my projects are available at [https://github.com/faiaz18](https://github.com/faiaz18)
+👨‍💻 All of my projects are available at [https://github.com/faiaz18](https://github.com/faiaz18)
 
-- 📫 How to reach me **faiaz.islam@outlook.com**
+📫 How to reach me **faiaz.islam@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
