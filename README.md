@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faiaz</h1>
 <h3 align="center">Passionate about Cyber Security and Systems Administration</h3>
-<img align="right" alt="Coding" width="400" src="">
-<div class="tenor-gif-embed" data-postid="20202201" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/hacking-gif-20202201">Hacking GIF</a>from <a href="https://tenor.com/search/hacking-gifs">Hacking GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2151912/screenshots/11427204/media/9d5b235345e9ba01547e5176a1e285d6.gif">
 
 
 🔭 I’m currently working on **Cyber Security projects**
