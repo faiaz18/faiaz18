@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faiaz</h1>
 <h3 align="center">Passionate about Cyber Security and Systems Administration</h3>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fhacking-gif-20202201&psig=AOvVaw2oRNJ1KYi5JgDKLqh7XVOO&ust=1712363006897000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOi_u7nnqYUDFQAAAAAdAAAAABAJ">
 
 🔭 I’m currently working on **Cyber Security projects**
 
