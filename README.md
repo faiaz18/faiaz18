@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Faiaz</h1>
 <h3 align="center">Passionate about Cyber Security and Systems Administration</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2151912/screenshots/11427204/media/9d5b235345e9ba01547e5176a1e285d6.gif">
+<img style="float: right; width: 400px;" alt="Coding" src="https://cdn.dribbble.com/users/2151912/screenshots/11427204/media/9d5b235345e9ba01547e5176a1e285d6.gif">
+
 
 
 🔭 I’m currently working on **Cyber Security projects**
