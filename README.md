@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Faiaz</h1>
 <h3 align="center">Passionate about Cyber Security and Systems Administration</h3>
 
-- 🔭 I’m currently working on **Cyber Security projects**
+🔭 I’m currently working on **Cyber Security projects**
+
+Projects:
+- Indrusion Detection System
+- SIEM Homelab
+- IAM Homelab
+- Money Transaction Security Blockchain Project
+- Applied Cryptography project
 
 - 🌱 I’m currently learning **Offensive Security**
 
