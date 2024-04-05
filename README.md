@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faiaz</h1>
 <h3 align="center">Passionate about Cyber Security and Systems Administration</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGZjNzk3aW9vYno3dXI5YmFzYzk1N3p0cHVwbnVtZ3RpYnd2M2N5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/V4NSR1NG2p0KeJJyr5/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/FLbMRL3o3FzODu2M0l/giphy.gif?cid=ecf05e47tnm2we9ix81gzkbog6t9mf32ma360fv3df6sjcew&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 
 🔭 I’m currently working on **Cyber Security projects**
