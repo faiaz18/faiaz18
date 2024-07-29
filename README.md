@@ -4,14 +4,10 @@
 🔭 I’m currently working on **Cyber Security projects/courses**
 
   Courses:
-  - Google Cyber Security Professional Certificate
-  - TryHackMe Learning Paths
+  - Practical Bug Bounty
   
   Projects:
   - Indrusion Detection System
-  - SIEM Homelab
-  - IAM Homelab
-  - Money Transaction Security Blockchain Project
   - Applied Cryptography project
 
 🌱 I’m currently learning **Offensive Security**
