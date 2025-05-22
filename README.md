@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Faiaz</h1>
-<h3 align="center">Passionate about Cyber Security and Systems Administration</h3>
+<h3 align="center">Passionate about Cyber Security and ICT Systems</h3>
 
 🔭 I’m currently working on **Cyber Security projects/courses**
 
   Courses:
-  - Practical Bug Bounty
+  - HTB Certified Defensive Security Analyst (HTB CDSA, from SIEM to DFIR)
+  - eJPT Junior Penetration Tester Certification
   
   Projects:
   - Indrusion Detection System
@@ -19,7 +20,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/faiaz-islam-884b17247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faiaz islam" height="30" width="40" /></a>
-<a href="https://instagram.com/faiaz.18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faiaz.18" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
