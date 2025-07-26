@@ -7,7 +7,7 @@
   - HTB Certified Defensive Security Analyst (HTB CDSA, from SIEM to DFIR)
   - eJPT Junior Penetration Tester Certification
   
-  Projects:
+  Projects (in progress):
   - Indrusion Detection System
   - Applied Cryptography project
 
