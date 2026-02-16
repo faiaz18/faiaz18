@@ -4,14 +4,11 @@
 🔭 I’m currently working on **Cyber Security projects/courses**
 
   Courses:
-  - HTB Certified Defensive Security Analyst (HTB CDSA, from SIEM to DFIR)
+  - Microsoft Certifications: SC-900, AZ-500, SC-200, SC-100
   - eJPT Junior Penetration Tester Certification
-  
-  Projects (in progress):
-  - Indrusion Detection System
-  - Applied Cryptography project
+  - GRC Mastery
 
-🌱 I’m currently learning **Offensive Security**
+🌱 I’m currently learning **Defensive Security** , **Offensive Security** , **Security Engineering / Architecture** and **Governance, Risk & Compliance**
 
 👨‍💻 All of my projects are available at [https://github.com/faiaz18](https://github.com/faiaz18)
 
