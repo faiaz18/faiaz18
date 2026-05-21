@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on **Cyber Security projects/courses**
 
-  Courses:
+  Courses (in progress):
   - Microsoft Certifications: SC-900, AZ-500, SC-200, SC-100
   - eJPT Junior Penetration Tester Certification
   - GRC Mastery
